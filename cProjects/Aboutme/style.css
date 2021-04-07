@@ -1,5 +1,91 @@
 h2 {
     text-align: justify;
-    font-size: 1px;
-    color:  #003;
+    font-size: 14px;
+    color:  007;
   }
+
+  img{
+    height: 200px;
+    width: 300px;
+}
+ 
+
+  
+body {
+    background-color:cyan;
+    text-align:center;
+    font-size: 30px;
+    column-count: ;
+    
+}
+h1{
+    width:50vw;
+    height:10vh;
+    margin: auto;
+    color :navy;
+}
+ul {
+    text-align:center
+}
+.image {
+    max-width: 10vw;
+    height:30vw;
+}
+ul {
+    list-style-type: none;
+}
+
+h2.job-heading {
+    font-size: 40px;
+   text-align: center;
+}
+h2.school-heading {
+    font-size: 40px;
+    text-align: center;
+
+
+}
+
+h2.goof {
+    text-align: center;
+}
+homelist {
+    font-size: 20px;
+    text-align: center;
+
+
+
+}
+
+h3{
+    font-size: 40px;
+   text-align: center;
+
+
+}
+h4{
+    font-size: 40px;
+    text-align: center;
+
+
+}
+h5{
+    font-size: 40px;
+    text-align: center;
+
+
+
+}
+
+
+@media (max-width:480px) (min-width:320px) {
+    .image {
+        max-width: 80vw;
+        height: auto;
+    }
+    h1 {
+        width:40vw;
+        height:5vh;
+    }
+}
+
